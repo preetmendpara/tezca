@@ -26,7 +26,7 @@ This repository holds the website and the release downloads.
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/preetmendpara"><b>Preet Mendpara</b></a> · <a href="https://preetmendpara.qzz.io">Portfolio</a>
+  Built by <a href="https://github.com/preetmendpara"><b>Preet Mendpara</b></a> · <a href="https://preetmendpara.in">Portfolio</a>
 </p>
 
 <p align="center">
